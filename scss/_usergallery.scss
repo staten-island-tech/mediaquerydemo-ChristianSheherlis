@@ -43,6 +43,7 @@
         padding: 1rem;
         @include laptop{
             height: 30rem;
+            width: auto;
         }
     }
 }
